@@ -1,6 +1,6 @@
- <h1 align="center">Hi 👋, I'm Hrishav Khanra</h1>
+<h1 align="center">Hi 👋, I'm Hrishav Khanra</h1>
 
-<h3 align="center">DevOps & Cloud Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate DevOps Learner from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrishav-798&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -80,19 +80,10 @@ Computer Science student focused on **DevOps, Cloud Infrastructure, and Automati
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=hrishav-798&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</a>
-</p>
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
+
 <a href="https://twitter.com/hrishav798" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/>
 </a>
@@ -100,6 +91,7 @@ Computer Science student focused on **DevOps, Cloud Infrastructure, and Automati
 <a href="https://linkedin.com/in/hrishav-khanra-554617312" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
+
 </p>
 
 ---
